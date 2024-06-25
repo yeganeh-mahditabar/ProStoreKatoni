@@ -31,6 +31,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+main {
+    min-height: calc(100vh - 230px);
+}
+
 .products {
     padding: 16px;
     text-align: center;
